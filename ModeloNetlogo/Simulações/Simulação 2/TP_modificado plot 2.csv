@@ -1,0 +1,20 @@
+"export-plot data (NetLogo 6.1.1)"
+"TP_modificado.nlogo"
+"10/21/2019 06:15:19:943 +0100"
+
+"MODEL SETTINGS"
+"energia_inicial","lixo_normal","nassassinos","energ_alimento","alimento","limiteresiduos","ncomiloes","assassinos?","lixo_toxico","mostrarcargadeposito?","nlimpadores","mostra_energia?","n_depositos","mostra_carga?"
+"100","8","8","40","15","7","26","true","5","false","30","true","3","true"
+
+"""Populacao"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","60","0","60","true","""default""","false","3"
+
+"pen name","pen down?","mode","interval","color","x"
+"""default""","true","0","1","114","0"
+"""pen-1""","true","0","1","25","0"
+"""pen-2""","true","0","1","5","0"
+
+"""default""",,,,"""pen-1""",,,,"""pen-2"""
+"x","y","color","pen down?","x","y","color","pen down?","x","y","color","pen down?"
+"0","0","114","true","0","0","25","true","0","0","5","true"
